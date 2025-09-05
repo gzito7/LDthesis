@@ -1,7 +1,8 @@
 # Extremal Evets for Deep Gaussian Neural Networks in the Infinite-Width Limit
 
 ## Advisors:
-Prof. Dario Trevisan, Professor of Probability and Statistics, Coordinator for Internationalization, Dipartimento di Matematica, Università di Pisa, https://web.dm.unipi.it/trevisan/
+Prof. Dario Trevisan, Professor of Probability and Statistics, Coordinator for Internationalization, Dipartimento di Matematica, Università di Pisa, https://web.dm.unipi.it/trevisan/ \\
+
 Prof. Aikaterini Papagiannouli, Professor of Probability and Statistics, Dipartimento di Matematica, Università di Pisa, https://sites.google.com/view/katerinapapagiannouli/
 
 ## Abstract:
