@@ -1,4 +1,8 @@
 # Extremal Evets for Deep Gaussian Neural Networks in the Infinite-Width Limit
 
+## Advisors:
+Prof. Dario Trevisan, Professor of Probability and Statistics, Coordinator for Internationalization, Dipartimento di Matematica, Università di Pisa, https://web.dm.unipi.it/trevisan/
+Prof. Aikaterini Papagiannouli, Professor of Probability and Statistics, Dipartimento di Matematica, Università di Pisa, https://sites.google.com/view/katerinapapagiannouli/
+
 ## Abstract:
 The probabilistic study of rare events is developed in the so-called Large Deviations Theory. In this work, our aim is to apply some important results from Large Deviations Theory to the case of Gaussian Neural Networks, in order to get some interesting properties about rare events for such Neural Networks. We start showing definitions and properties of Gaussian Neural Networks, in particular we give a proof of the Central Limit Theorem for Gaussian Neural Networks in the infinite-width limit. Next we show the main results of the Large Deviations Theory in the general setting of sequences of probability measures, many of which are strictly related to the most important theorems of probability theory, such as the Law of Large Numbers and the Portmanteau Theorem. Then we prove the Large Deviation Principle for the output of Gaussian Neural Networks. This result play the role of the Central Limit Theorem in the Large Deviations Theory, so the idea is to follow the same strategy used for Central Limit Theorem for Gaussian Neural Networks but using the related tools from the Large Deviations Theory. We conclude discussing about how to compute numerically some properties given by the Large Deviation Principle.
